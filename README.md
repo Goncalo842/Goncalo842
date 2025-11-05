@@ -1,12 +1,12 @@
-<!-- BANNER ANIMADO -->
+<!-- ANIMATED BANNER -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=200&section=header&text=%20%20&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
 
 
-##  Olá, eu sou o **Gonçalo Queirós**
+##  Hello, I'm **Gonçalo Queirós**
 
 ---
 
-###  Estatísticas do GitHub
+###  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Goncalo842">
@@ -19,7 +19,7 @@
 
 ---
 
-### Tecnologias e Ferramentas
+### Technologies & Tools
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Goncalo-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -34,23 +34,29 @@
 
 ---
 
-###  Um pouco sobre mim
+###  A Little About Me
 
--  Sempre em busca de **melhorar a qualidade do código** e aprender novas tecnologias.  
--  Foco em **front-end moderno**, mas com forte interesse em back-end.  
--  Objetivo: criar **soluções que realmente façam diferença**.  
+- Always striving to **improve code quality** and learn new technologies.  
+- Focused on **modern front-end development**, with a strong interest in back-end.  
+- Goal: to build **solutions that truly make a difference**.  
 
 ---
 
-### Onde me encontrar
+### Where to Find Me
 
 <div align="center">
-  <a href="mailto:gdinisqueiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:gdinisqueiros@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/goncalo-queirós-67084135b/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-  <a href="https://github.com/Goncalo842" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Goncalo842" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+---
 
 <div align="center">
   <picture>
@@ -61,5 +67,6 @@
 </div>
 
 ---
-<!-- RODAPÉ -->
+
+<!-- FOOTER -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=120&section=footer)
