@@ -14,7 +14,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalo842&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
   <br/>
-  
+  <img height="150em" src="https://streak-stats.demolab.com?user=Goncalo842&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
