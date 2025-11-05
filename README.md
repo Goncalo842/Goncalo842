@@ -1,12 +1,6 @@
-<!-- TEXTO DIGITANDO -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
 <!-- BANNER ANIMADO -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=200&section=header&text=Gonçalo%20Queirós%20&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=200&section=header&text=%20%20&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
+
 
 ##  Olá, eu sou o **Gonçalo Queirós**
 
@@ -66,5 +60,4 @@
 
 ---
 <!-- RODAPÉ -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:000000&height=120&section=footer)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=120&section=footer)
