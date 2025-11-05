@@ -48,3 +48,10 @@
   <a href="[https://www.linkedin.com/in/goncalo-queiros](https://www.linkedin.com/in/goncalo-queir%C3%B3s-67084135b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Goncalo842" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake.svg">
+</picture>
