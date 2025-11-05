@@ -1,5 +1,12 @@
+<!-- TEXTO DIGITANDO -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 <!-- BANNER ANIMADO -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=200&section=header&text=Gonçalo%20Queirós%20&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=200&section=header&text=Gonçalo%20Queirós%20&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
 
 ##  Olá, eu sou o **Gonçalo Queirós**
 
@@ -49,9 +56,15 @@
   <a href="https://github.com/Goncalo842" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Goncalo842/Goncalo842/output/github-contribution-grid-snake.svg">
-</picture>
+---
+<!-- RODAPÉ -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:000000&height=120&section=footer)
+
