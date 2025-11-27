@@ -84,6 +84,3 @@
 </div>
 
 ---
-
-<!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=120&section=footer)
