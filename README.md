@@ -13,17 +13,20 @@
 - ⭐ Always striving to **improve code quality** and learn new technologies.  
 - 🌐 Focused on **modern front-end development**, with a strong interest in back-end.  
 - 💻 Goal: to build **solutions that truly make a difference**. 
+
+<br/>
+
 ---
 
 ###  GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Goncalo842">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Goncalo842&show_icons=true&theme=tokyonight"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalo842&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-  <br/>
-</div> 
+  <a href="https://github.com/Goncalo842">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Goncalo842&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=default" alt="GitHub Stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalo842&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="Top Languages"/>
+  </a>
+  <br/>
+</div>
 
 ---
 
