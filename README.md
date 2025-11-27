@@ -18,6 +18,15 @@
 
 ---
 
+
+###  A Little About Me
+
+- Always striving to **improve code quality** and learn new technologies.  
+- Focused on **modern front-end development**, with a strong interest in back-end.  
+- Goal: to build **solutions that truly make a difference**.  
+
+---
+
 ###  Technologies & Tools
 
 ####  Back-End  
@@ -38,13 +47,6 @@
 
 ---
 
-###  A Little About Me
-
-- Always striving to **improve code quality** and learn new technologies.  
-- Focused on **modern front-end development**, with a strong interest in back-end.  
-- Goal: to build **solutions that truly make a difference**.  
-
----
 
 ###  Where to Find Me
 
@@ -54,9 +56,6 @@
   </a>
   <a href="https://www.linkedin.com/in/goncalo-queirós-67084135b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Goncalo842" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
