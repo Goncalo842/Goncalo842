@@ -5,7 +5,7 @@
   <img align="right" width="40%" src="wolf.png">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Gonçalo Queirós! 
+# ɪ'ᴍ Gonçalo Queirós! 
 <br /> 
 
 <p align="left">I am a Full Stack Developer passionate about building web applications using Laravel, Node.js, React.js, and JavaScript. I enjoy creating projects and sharing my work on GitHub.</p>
