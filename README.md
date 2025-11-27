@@ -1,9 +1,16 @@
 <!-- ANIMATED BANNER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=200&section=header&text=%20%20&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
+![Goncalo842 Banner](./image.png)
 
 
-##  Hello, I'm **Gonçalo Queirós**
 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Gonçalo Queirós! 
+<br /> 
+
+<p align="left">I am a Full Stack Developer passionate about building web applications using Laravel, Node.js, React.js, and JavaScript. I enjoy creating projects and sharing my work on GitHub.</p>
+
+- ⭐ Always striving to **improve code quality** and learn new technologies.  
+- 🌐 Focused on **modern front-end development**, with a strong interest in back-end.  
+- 💻 Goal: to build **solutions that truly make a difference**. 
 ---
 
 ###  GitHub Stats
@@ -14,16 +21,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalo842&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
   <br/>
-</div>
-
----
-
-
-###  A Little About Me
-
-- Always striving to **improve code quality** and learn new technologies.  
-- Focused on **modern front-end development**, with a strong interest in back-end.  
-- Goal: to build **solutions that truly make a difference**.  
+</div> 
 
 ---
 
