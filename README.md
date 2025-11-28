@@ -8,7 +8,9 @@
 # ɪ'ᴍ ɢᴏɴᴄ̧ᴀʟᴏ ǫᴜᴇɪʀᴏ́ꜱ!
 <br /> 
 
-<p align="left">I am a Full Stack Developer passionate about building web applications using Laravel, Node.js, React.js, and JavaScript. I enjoy creating projects and sharing my work on GitHub.</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;I am a Full Stack Developer passionate about building web applications using Laravel, Node.js, React.js, and JavaScript. I enjoy creating projects and sharing my work on GitHub.</p>
+
+<br /> 
 
 - ⭐ Always striving to **improve code quality** and learn new technologies.  
 - 🌐 Focused on **modern front-end development**, with a strong interest in back-end.  
