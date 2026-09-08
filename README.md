@@ -1,5 +1,4 @@
-<!-- ANIMATED BANNER -->
-![Goncalo842 Banner](./main.jpg)
+
 
 <div>
   <img align="right" width="40%" src="wolf.png">
